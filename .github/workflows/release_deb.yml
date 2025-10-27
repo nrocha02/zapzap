@@ -6,7 +6,6 @@ jobs:
       matrix:
         codename:
           - trixie
-          - bookworm
         platform:
           - amd64
 
