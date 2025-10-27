@@ -1,0 +1,2 @@
+- name: Build Debian package on multiple architectures
+  uses: andy5995/gh-action-build-deb@v1.1.1
